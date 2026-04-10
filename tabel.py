@@ -1,14 +1,14 @@
 #nama
 nama = input("\nmasukkan nama yang benar: ")
 
-while nama != "nanang":
+while nama != "rofik":
     print("nama anda salah, coba lagi")
     nama = input("masukkan nama yang benar: ")
 
 #nim
 nim = input("masukkan nim yang benar\t: ")
 
-while nim != "25241018":
+while nim != "25241011":
     print("nim anda salah, coba lagi")
     nim = input("masukkan nim yang benar\t: ")
 
