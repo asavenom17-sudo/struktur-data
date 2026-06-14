@@ -1,12 +1,10 @@
-
+#Aplikasi manajemen nilai mahasiswa
 
 data_nahasiswa = [
-    "Egi",77,
-    "Rofik",94,
-    "nang",90,
-    "Dimas",81,
-    "renaldi",83,
-    "rudi",72,  
+    "Rofik",77,
+    "Nanang",94,
+    "Aldi",90,
+    "Rido",81,
 ]
 
 print ("\n\t\tPILIH MENU")
